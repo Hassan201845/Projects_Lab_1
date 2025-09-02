@@ -9,4 +9,3 @@ print(things_in_list)
 
 print(libraries[0])
 print(libraries[-1])
-print(count(libraries))

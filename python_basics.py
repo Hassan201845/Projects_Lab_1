@@ -153,6 +153,7 @@ List_of_classes = current_classes.split(',')
 
 for i in List_of_classes:
     print(i.strip().title())
+    
 
 
 
